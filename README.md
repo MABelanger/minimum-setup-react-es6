@@ -9,7 +9,7 @@ $ ./setup-react-es6.sh
 That script will do 4 steps:
   1. `npm init`
   2. create files `index.html`, `main.js` and `webpack.config.json`
-  3. `install all npm` needed to run React + ES6
+  3. `install all npm` needed to run React + ES6 inside `./node_modules`
   4. run `webpack-dev-server`
 
 After installation, the `Hello World!` page is at :
